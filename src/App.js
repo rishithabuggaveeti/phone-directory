@@ -3,7 +3,7 @@ import Header from "./Header";
 function App() {
   return (
     <div>
-      <div>phone directory</div>
+      <Header/>
       <button>Add</button>
       <div>
         <span>Name</span> <br />
